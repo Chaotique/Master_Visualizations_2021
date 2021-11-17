@@ -1,3 +1,9 @@
 ds-codigos-postales-master
 .ipynb_checkpoints
 __pycache__
+
+# geopackages
+*.gpkg
+# shapefiles spain
+BCN500
+BCN500.zip
